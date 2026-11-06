@@ -1,0 +1,18 @@
+# Local run/evidence output; the methods and tiny static helpers are committed.
+_verification/
+.DS_Store
+**/._*
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.mp4
+*.mov
+*.wav
+*.zip
+*.tgz
+*.tar
+*.tar.gz
+film*.srt
