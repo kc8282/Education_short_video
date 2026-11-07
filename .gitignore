@@ -16,3 +16,6 @@ __pycache__/
 *.tar
 *.tar.gz
 film*.srt
+
+# Curated generated teaching sample videos for public comparison
+!samples/media/videos/*.mp4
