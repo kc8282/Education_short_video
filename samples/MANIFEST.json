@@ -1,0 +1,122 @@
+{
+  "publication_status": "publication_candidate",
+  "items": [
+    {
+      "style": "chalkboard",
+      "name_zh": "黑板",
+      "video": "media/videos/01-chalkboard.mp4",
+      "cover": "media/covers/01-chalkboard.jpg",
+      "sha256": "12c7b3bd7ec3856ec1f68fe664500415f16d5723dbab2f0b86f85bbc0af8c792",
+      "bytes": 19288736,
+      "status": "现有样片，最终版身份待核",
+      "skill": ".agents/skills/chalkboard/SKILL.md",
+      "skill_status": "preserve_existing",
+      "publication": "generated_sample; voice redistribution terms not independently confirmed; no license clearance claimed",
+      "provenance": "exact_byte_match_to_existing_generated_source; final_identity_status_as_noted"
+    },
+    {
+      "style": "whiteboard",
+      "name_zh": "白板",
+      "video": "media/videos/02-whiteboard.mp4",
+      "cover": "media/covers/02-whiteboard.jpg",
+      "sha256": "f4880bad8755ceb622370ec6d0eab551c540fea86e49250e60f9d84d6fcfcfc6",
+      "bytes": 14968426,
+      "status": "已生成，认可状态未核",
+      "skill": null,
+      "skill_status": "待补",
+      "publication": "generated_sample; voice redistribution terms not independently confirmed; no license clearance claimed",
+      "provenance": "exact_byte_match_to_existing_generated_source; final_identity_status_as_noted"
+    },
+    {
+      "style": "crayon-book",
+      "name_zh": "蜡笔绘本",
+      "video": "media/videos/03-crayon-book-film-r2.mp4",
+      "cover": "media/covers/03-crayon-book-film-r2.jpg",
+      "sha256": "2901ddf4a4a631519c9eb33bd3c87e38ccd7868eb72c29a7b2138752ea27c8ee",
+      "bytes": 59622223,
+      "status": "Later，有已知问题，非最终版",
+      "skill": null,
+      "skill_status": "待补",
+      "publication": "generated_sample; voice redistribution terms not independently confirmed; no license clearance claimed",
+      "provenance": "exact_byte_match_to_existing_generated_source; final_identity_status_as_noted"
+    },
+    {
+      "style": "isometric-picture-book",
+      "name_zh": "等距绘本",
+      "video": "media/videos/04-isometric-picture-book.mp4",
+      "cover": "media/covers/04-isometric-picture-book.jpg",
+      "sha256": "085ea977b97cabdf8b86e983680b44997fb5415ca19ae31aea242205b2697fd9",
+      "bytes": 8662984,
+      "status": "现有样片，最终版身份待核",
+      "skill": ".agents/skills/isometric-picture-book/SKILL.md",
+      "skill_status": "preserve_existing",
+      "publication": "generated_sample; voice redistribution terms not independently confirmed; no license clearance claimed",
+      "provenance": "exact_byte_match_to_existing_generated_source; final_identity_status_as_noted"
+    },
+    {
+      "style": "iso-infographic",
+      "name_zh": "等距信息图",
+      "video": "media/videos/05-iso-infographic.mp4",
+      "cover": "media/covers/05-iso-infographic.jpg",
+      "sha256": "1648569b98668115ebccb3c32754875e231a1328e1d3394fec8c4f04707eb138",
+      "bytes": 4231404,
+      "status": "内部审核，不代表Kevin认可",
+      "skill": null,
+      "skill_status": "待补",
+      "publication": "generated_sample; voice redistribution terms not independently confirmed; no license clearance claimed",
+      "provenance": "exact_byte_match_to_existing_generated_source; final_identity_status_as_noted"
+    },
+    {
+      "style": "blueprint",
+      "name_zh": "工程蓝图",
+      "video": "media/videos/06-blueprint-full.mp4",
+      "cover": "media/covers/06-blueprint-full.jpg",
+      "sha256": "42c20b13de553ae67c5f6682a9af1927ddf429039336d430748e97830b5938d2",
+      "bytes": 2621899,
+      "status": "内部审核，不代表Kevin认可",
+      "skill": null,
+      "skill_status": "待补",
+      "publication": "generated_sample; voice redistribution terms not independently confirmed; no license clearance claimed",
+      "provenance": "exact_byte_match_to_existing_generated_source; final_identity_status_as_noted"
+    },
+    {
+      "style": "pictogram-motion",
+      "name_zh": "图标动效",
+      "video": "media/videos/07-pictogram-motion.mp4",
+      "cover": "media/covers/07-pictogram-motion.jpg",
+      "sha256": "6e6862d31d40121d18b61a82f0f5796cd0b6352152e3d6dee5a199ea1728e167",
+      "bytes": 6489625,
+      "status": "内部审核，不代表Kevin认可",
+      "skill": null,
+      "skill_status": "待补",
+      "publication": "generated_sample; voice redistribution terms not independently confirmed; no license clearance claimed",
+      "provenance": "exact_byte_match_to_existing_generated_source; final_identity_status_as_noted"
+    },
+    {
+      "style": "telestrator",
+      "name_zh": "画线讲解",
+      "video": "media/videos/08-telestrator.mp4",
+      "cover": "media/covers/08-telestrator.jpg",
+      "sha256": "4c5b6451f7a6fe70469312b0ddb3d5f9035663945c955e7691132fe526e0201b",
+      "bytes": 5320464,
+      "status": "内部审核，不代表Kevin认可",
+      "skill": null,
+      "skill_status": "待补",
+      "publication": "generated_sample; voice redistribution terms not independently confirmed; no license clearance claimed",
+      "provenance": "exact_byte_match_to_existing_generated_source; final_identity_status_as_noted"
+    },
+    {
+      "style": "microscope",
+      "name_zh": "剖面讲解",
+      "video": "media/videos/09-microscope.mp4",
+      "cover": "media/covers/09-microscope.jpg",
+      "sha256": "148662635f52fa0bd619ffda426c4dfa3a6c600ed80adaac227d05b81093b4e4",
+      "bytes": 5362243,
+      "status": "内部审核，不代表Kevin认可",
+      "skill": null,
+      "skill_status": "待补",
+      "publication": "generated_sample; voice redistribution terms not independently confirmed; no license clearance claimed",
+      "provenance": "exact_byte_match_to_existing_generated_source; final_identity_status_as_noted"
+    }
+  ]
+}

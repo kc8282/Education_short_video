@@ -50,3 +50,8 @@ opencode run --model <discovered-provider/deepseek-v4.1-flash-id> --format json 
 ## 范围与许可
 
 当前 seed 提供方法、轻量骨架、结构检查和模型路径；没有收录原始样片或私有工作路径，也没有声称已用 DeepSeek 成功渲染完整新片。本机验证了非 TokenHub DeepSeek Flash 的短规划响应，以及两套非 DeepSeek 作者实现的 smoke 图形 `render(t)`（水分子／动物分类）与碰撞故障拒绝。**不是** STROKE/CJK 专家质量、完整文法出片或教育验收证据。每个 film 工作目录保存 `CREDITS`、来源、TTS／字体许可、真实运行日志及审核结论。仓内文档与自有代码为 [MIT](LICENSE)；上游方法／代码衍生说明见 [NOTICE](NOTICE.md)。原始样片不随仓分发。
+
+
+## 九种风格已有动画（比较目录）
+
+[打开九项视频、封面、SHA及状态目录](samples/README.md)。保留已有两个可复用skill，其余七个待补；样片审核与许可边界见目录说明。
